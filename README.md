@@ -8,7 +8,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)[![Model](https://img.shields.io/badge/Model-DeepSeek%20V3-brightgreen)](https://www.deepseek.com/)[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-![Gemini_Generated_Image_hghtxchghtxchght](./assets/Gemini_Generated_Image_hghtxchghtxchght.png)
+<p align="center">
+  <img src="./assets/Gemini_Generated_Image_hghtxchghtxchght.png" width="100%" alt="项目架构图" />
+</p>
+
 
 ## 📖 精选摘录 (Highlights)
 
