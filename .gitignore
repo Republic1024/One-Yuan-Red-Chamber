@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+temp_chapters_split/
+refiner_cache_ds.json
+*.html
+*.key
