@@ -6,9 +6,9 @@
 >
 > **"三分钟跑完一章节，九毛钱重写后二十八回。" —— DeepSeek**
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Model](https://img.shields.io/badge/Model-DeepSeek%20V3-brightgreen)](https://www.deepseek.com/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)[![Model](https://img.shields.io/badge/Model-DeepSeek%20V3-brightgreen)](https://www.deepseek.com/)[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+![Gemini_Generated_Image_hghtxchghtxchght](./assets/Gemini_Generated_Image_hghtxchghtxchght.png)
 
 ## 📖 精选摘录 (Highlights)
 
